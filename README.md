@@ -1,6 +1,6 @@
 ## Hi, I'm Simon 🌵 — I work on [Argo Workflows 🦑](https://github.com/argoproj/argo-workflows)
 
-### Previously, I graduated from UC Berkeley Computer Science 🐻
+### Previously, I studied Computer Science at UC Berkeley 🐻
 
 <p align="center">
 	Get it touch!
