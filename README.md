@@ -3,7 +3,7 @@
 ### Previously, I graduated from UC Berkeley Computer Science 🐻
 
 <p align="center">
-	Get it touch:
+	Get it touch!
 </p>
 
 <p align="center">
