@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+	<!-- https://img.shields.io/badge/CNCF%20Slack-@simon--argo-_.svg?style=social&logo=slack to make new icons -->
     	<!-- <a href="https://drive.google.com/file/d/1cJ7f4QkItu-MpkZ0Y7kJpLjFMLXn7WdB/view"><img src="img/cv.svg" alt="Resume/CV"></a> -->
 	<a href="mailto:simbeh7@gmail.com"><img src="img/gmail.svg" alt="Email"></a>
 	<a href="https://cloud-native.slack.com/team/U01TR6RQJKG"><img src="img/slack.svg" alt="CNCF Slack"></a>
