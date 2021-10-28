@@ -1,6 +1,6 @@
 ## Hi, I'm Simon 🌵 — I'm an engineer at [Airbnb](https://github.com/airbnb) and I also work on [Argo Workflows](https://github.com/argoproj/argo-workflows)
 
-### Previously, I have worked at [Intuit](https://github.com/intuit) and studied Computer Science at UC Berkeley
+### Previously, I worked at [Intuit](https://github.com/intuit) and studied Computer Science at UC Berkeley
 
 <p align="center">
 	Get it touch!
